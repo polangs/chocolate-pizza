@@ -1,8 +1,42 @@
 /* ENTIRE PAGE */
-/* BORDER */
-
-
-
+body{
+    font-family: helvetica, sans-serif;
+}
 /* HEADER */
+header{
+    height: 100px;
+    border-bottom: 15px solid rgb(196, 192, 192);
+
+}
+
+nav {
+    width: 960px;
+    margin: 0px auto;
+    border-bottom: 15px solid rgb(196, 192, 192);
+}
+nav img{
+    float: left;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+nav h4{
+    font-size: 20px;
+    margin-top: 15px;
+}
+nav h6{
+    font-size: 8px;
+}
+nav li{
+    float: right;
+    margin: 1px, 1px, 1px, 0px;
+    
+    
+}
+
 /* MAIN */
+img{
+    display: inline-block;
+    margin-right: 75px;
+    margin-top: 45;
+}
 /* FOOTER */
